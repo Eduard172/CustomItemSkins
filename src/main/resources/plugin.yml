@@ -1,0 +1,10 @@
+name: CustomItemSkins
+version: '${project.version}'
+main: me.eduard.customitemskins.CustomItemSkins
+api-version: '1.19'
+authors: [EdWARD, naphy]
+commands:
+  test:
+    description: plm
+  etest:
+    description: test123
